@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Otabek</h1>
 <h3 align="center">I am Flutter developer Based in Uzbekistan, Tashkent</h3>
 <p>👋 Welcome to my GitHub bio.<p>
-  ✍️ I'm an 19 y.o experienced programmer(not a printer fixer) with several successful projects under my belt. <p>
+  ✍️ I am an 18 year old Flutter and Machine Learning programmer and love open source projects <p>
     🇬
-       I'm based in Navoi, Uzbekistan. Curently living in Tashkent<p>
+       I live in Bukhara, Uzbekistan. He currently lives in Tashkent<p>
         <p>
-          🔊 I love dark mode, open source, and side projects.<p>🖼️ When I'm not working, I like designing, sleeping listening music.<p>🤫 I hate watching anime and films.<p>🆘 So please don't write & talk me about this topics!.</p></p></p></p></p></p></p></p></p>
-<!-- <h4 align="center">Nationality: Tajik    Date of birth: 2003-01-07    Email: sevbofx@gmail.com<h4>     -->
+          🔊 I love the lighting mode, the open source and the great projects.<p>🖼️ I love linux DE customization needle ui design and Flutter projects.<p>🤫 I hate old projects and waste time.<p>🆘 My main hobbies are traveling and making friends.</p></p></p></p></p></p></p></p></p>
+<!-- <h4 align="center">Nationality: Uzbekistan    Date of birth: 2004-06-09    Email: ismoilovdev@gmail.com<h4>     -->
 
 <!-- ![Love](https://spotify-recently-played-readme.vercel.app/api?user=31izxfxf6vixoccfya2wk2jmyrku&count=2) -->
 
