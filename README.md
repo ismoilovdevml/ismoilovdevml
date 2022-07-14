@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Otabek</h1>
 <h3 align="center">I am Flutter developer Based in Uzbekistan, Tashkent</h3>
 <p>👋 Welcome to my GitHub bio.<p>
-  ✍️ I am an 18 year old Flutter and Machine Learning programmer and love open source projects <p>
+  ✍️ I am an 18 year old Flutter programmer and love open source projects <p>
     🇬
        I live in Bukhara, Uzbekistan. He currently lives in Tashkent<p>
         <p>
