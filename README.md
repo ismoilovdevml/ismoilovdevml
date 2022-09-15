@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Otabek</h1>
-<h3 align="center">I am Flutter developer and System Administrator Based in Uzbekistan, Tashkent</h3>
+<h3 align="center">System Administrator IT specialist Based in Uzbekistan, Tashkent</h3>
 <p>👋 Welcome to my GitHub bio.<p>
   ✍️ I am an 18 year old Flutter programmer and love open source projects <p>
     🇬
