@@ -12,6 +12,6 @@
 
 <p align="center">
   <a href="https://hits.sh/github.com/ismoilovdevml/">
-    <img src="https://hits.sh/github.com/ismoilovdevml.svg?label=Otabek's%20Followers&color=0762ff&labelColor=0762ff&logo=archlinux">
+    <img src="https://hits.sh/github.com/ismoilovdevml.svg?label=Otabek's%20Followers&color=242424&labelColor=242424&logo=rust">
   </a>
 </p>
