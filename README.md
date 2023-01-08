@@ -1,5 +1,5 @@
 <p align="">
-    <a href="https://otabek-ismoilov.gitbook.io/blog"><img src="./assets/slide-1.png" alt="Welcome Immage"></a>
+    <a href="https://ismoilovdev.vercel.app/"><img src="./assets/slide-1.png" alt="Welcome Immage"></a>
 </p>
 
 <p align="">
