@@ -1,13 +1,16 @@
-<p align="">
-    <a href="https://ismoilovdev.uz/"><img src="./assets/slide-1.png" alt="Welcome Immage"></a>
+<p align="center">
+  <a href="https://devops-journey.uz"><img src="./assets/slide-1.png" alt="Welcome Immage"></a>
+
 </p>
 
-<p align="">
-    <a href="https://github.com/uzinfocom-org/i10n/commits/main"><img src="./assets/slide-2.png" alt="Localization"></a>
+<p align="center">
+  <a href="https://rust-lang.uz/#contributor"><img src="./assets/trophy-1.png" width=48% alt="Most Active Rustacean"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rust-lang-uz/book/commits/main/"><img src="./assets/trophy-2.png" width=48% alt="Impactful Localizer"></a>
 </p>
 
-<p align="">
-    <a href="https://github.com/ismoilovdevml?tab=repositories"><img src="./assets/slide-3.png" alt="Community Leader"></a>
+<p align="center">
+  <a href="https://github.com/ismoilovdevml?tab=repositories"><img src="./assets/slide-2.png" alt="Community Leader"></a>
 </p>
 
 <p align="center">
